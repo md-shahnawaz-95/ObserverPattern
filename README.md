@@ -9,4 +9,4 @@ all its dependents are notified and updated automatically.
 Strive for loosly coupled designs between objects that interact.
 
 # Structure
-For structure and example please view the diagram.jpg file
+For structure and example please view the observer_diagram.jpg and observer_code.jpg file
