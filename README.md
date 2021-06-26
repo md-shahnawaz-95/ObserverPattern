@@ -1,4 +1,4 @@
-# ObserverPattern
+# Observer Pattern
 This code consists the working copy of Observer pattern
 
 # Definition
